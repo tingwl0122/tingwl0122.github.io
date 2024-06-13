@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: 📍 Champaign, IL, USA. 📧 twli AT illinois DOT edu, tingwl AT umich DOT edu.
+subtitle: 📍 Champaign, IL, USA. 📧 twli AT illinois DOT edu.
 
 profile:
   align: right
