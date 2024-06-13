@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: University of Illinois Urbana-Champaign, IL, USA. Email:twli AT illinois DOT edu.
+subtitle: 📍 Champaign, IL, USA. 📧 twli AT illinois DOT edu, tingwl AT umich DOT edu.
 
 profile:
   align: right
@@ -18,11 +18,11 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-I'm Ting-Wei (Tim) Li (李廷威), an incoming Ph.D. student at the [Department of Computer Science @ UIUC](https://cs.illinois.edu/). My supervisor is Dr. [Hanghang Tong](http://tonghanghang.org/). 
+I'm Ting-Wei (Tim) Li (李廷威), an incoming Ph.D. student at the [Department of Computer Science @ University of Illinois Urbana-Champaign](https://cs.illinois.edu/). My supervisor is Dr. [Hanghang Tong](http://tonghanghang.org/). 
 
 My research interest lies in graph machine learning, trustworthy machine learning and any intersection of the above two areas. For applications, I am particually interested in social network analysis and the interaction betwen LLMs and Knowledge Graphs.
 
-Before joining UIUC, I received my master's degree from [ECE @ UMich, Ann Arbor](https://ece.engin.umich.edu/) and bachelor's degree from [EE @ National Taiwan University](https://web.ee.ntu.edu.tw/eng/index.php). I also work extensively with [Prof. Qiaozhu Mei](https://websites.umich.edu/~qmei/), [Prof. Jiaqi Ma](https://jiaqima.github.io/) and [Prof. Yao Ma](https://yaoma24.github.io/).
+Before joining UIUC, I received my master's degree from [ECE @ University of Michigan, Ann Arbor](https://ece.engin.umich.edu/) and bachelor's degree from [EE @ National Taiwan University](https://web.ee.ntu.edu.tw/eng/index.php). I also work extensively with [Prof. Qiaozhu Mei](https://websites.umich.edu/~qmei/), [Prof. Jiaqi Ma](https://jiaqima.github.io/) and [Prof. Yao Ma](https://yaoma24.github.io/).
 
 <!-- Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
 
