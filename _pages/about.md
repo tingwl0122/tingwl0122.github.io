@@ -18,7 +18,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-I'm Ting-Wei (Tim) Li (李廷威), an incoming Ph.D. student at the [Department of Computer Science @ University of Illinois Urbana-Champaign](https://cs.illinois.edu/). My supervisor is Dr. [Hanghang Tong](http://tonghanghang.org/). 
+I'm Ting-Wei (Tim) Li (李廷威), an incoming Ph.D. student at the [Department of Computer Science @ University of Illinois Urbana-Champaign](https://cs.illinois.edu/). My supervisor is Prof. [Hanghang Tong](http://tonghanghang.org/). 
 
 My research interest lies in graph machine learning, trustworthy machine learning and any intersection of the above two areas. For applications, I am particually interested in social network analysis and the interaction betwen LLMs and Knowledge Graphs.
 
