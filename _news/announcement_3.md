@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I will join the IDEA Lab@UIUC and be supervised by Prof. Hanghang Tong this fall.
+I will join the IDEA Lab@UIUC as a Ph.D. student and be supervised by Prof. Hanghang Tong this fall!
