@@ -1,5 +1,5 @@
 {
-    "certificates": [
+  "certificates": [
     {
       "name": "Machine Learning",
       "date": "2018-01-01",
@@ -129,6 +129,4 @@
       "url": "https://example.com"
     }
   ]
-
-
 }
