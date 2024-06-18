@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: 📍 Champaign, IL, USA. 📧 twli AT illinois DOT edu.
 
