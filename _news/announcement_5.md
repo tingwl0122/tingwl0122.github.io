@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I will join Amazon as an Applied Scientist Intern this summer. See you all in Seattle!
+I will join Amazon as an **Applied Scientist Intern** this summer. See you all in Seattle!
