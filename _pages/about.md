@@ -22,7 +22,7 @@ I'm Ting-Wei Li, a first-year Ph.D. student at the [Department of Computer Scien
 
 My research interest lies in **graph machine learning**, **trustworthy machine learning** and any intersection of the above two areas. For applications, I am particually interested in social network analysis and interactions between LLMs and Knowledge Graphs.
 
-Before joining UIUC, I received my master's degree from [ECE @ University of Michigan, Ann Arbor](https://ece.engin.umich.edu/) and bachelor's degree from [EE @ National Taiwan University](https://web.ee.ntu.edu.tw/eng/index.php). I also work extensively with [Prof. Qiaozhu Mei](https://websites.umich.edu/~qmei/), [Prof. Jiaqi Ma](https://jiaqima.github.io/) and [Prof. Yao Ma](https://yaoma24.github.io/).
+Before joining UIUC, I received my master's degree from [ECE @ University of Michigan, Ann Arbor](https://ece.engin.umich.edu/) and bachelor's degree from [EE @ National Taiwan University](https://web.ee.ntu.edu.tw/eng/index.php). I also work extensively with [Prof. Jiaqi Ma](https://jiaqima.github.io/) and [Prof. Qiaozhu Mei](https://websites.umich.edu/~qmei/).
 
 <!-- Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
 
