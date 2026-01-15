@@ -18,7 +18,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-I'm Ting-Wei Li, a second-year Ph.D. student at the [Department of Computer Science @ University of Illinois Urbana-Champaign](https://cs.illinois.edu/). I am a member of [iDEA-iSAIL Joint Laboratory](https://www.idea-isail.com/) and my supervisor is Prof. [Hanghang Tong](http://tonghanghang.org/). I previously interned at Amazon (Summer 2025) and AT&T (Fall 2023).
+I'm Ting-Wei Li, a second-year Ph.D. student at the [Department of Computer Science @ University of Illinois Urbana-Champaign](https://cs.illinois.edu/). I am a member of [iDEA-iSAIL Joint Laboratory](https://www.idea-isail.com/) and my supervisor is Prof. [Hanghang Tong](http://tonghanghang.org/). I previously interned at Amazon (Prime Video, Summer 2025) and AT&T (AT&T Labs, Fall 2023).
 
 My research interest lies in **data-centric machine learning** and **graph machine learning**. I like to explore and advance the entire data lifecycle, including data attribution, data selection and data generation. For applications, I am particually interested in recommendation systems and LLM-based agentic systems.
 
