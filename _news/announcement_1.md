@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I will join AT&T as a chief data office intern this fall.
+I will join AT&T as a **Chief Data Office Intern** this fall.
