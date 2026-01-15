@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I will join Meta as an **Research Intern** this summer. See you all in Sunnyvale!
+I will join Meta as a **Research Intern** this summer. See you all in Sunnyvale!
