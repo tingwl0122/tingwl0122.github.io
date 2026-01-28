@@ -6,7 +6,7 @@ title: blank # the website title (if blank, full name will be used instead)
 first_name: Ting-Wei
 middle_name:
 last_name: Li
-email: twli@illinois.edu, tingwl@umich.edu
+email: twli@illinois.edu
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
 footer_text: >
@@ -342,6 +342,7 @@ filtered_bibtex_keywords:
     blog,
     code,
     html,
+    project,
     pdf,
     poster,
     preview,
@@ -349,7 +350,7 @@ filtered_bibtex_keywords:
     slides,
     supp,
     video,
-    website,
+    website
   ]
 
 # Maximum number of authors to be shown for each publication (more authors are visible on click)
