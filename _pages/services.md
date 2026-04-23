@@ -9,6 +9,8 @@ nav_order: 6
 
 ## Talk
 
+- Topic: Agentic Reasoning for Large Language Models (2026) @ [NLP Academic Exchange Platform](https://nice-nlp.github.io/)
+
 - Topic: Data Attribution for GenAI Copyright (2024) @ [Data Attribution Reading Group](https://trais-lab.github.io/dattri-reading-group/)
 
 ## Academic Services
