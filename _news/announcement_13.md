@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-One paper has been accepted to COLM.
+One paper has been accepted to COLM 2026.

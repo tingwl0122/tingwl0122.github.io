@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-One survey paper is accepted by TMLR.
+One survey paper has been accepted to TMLR.

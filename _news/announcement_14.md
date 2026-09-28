@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Two papers have been accepted to EMNLP.
+Two papers have been accepted to EMNLP 2026.
