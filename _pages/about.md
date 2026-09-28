@@ -25,7 +25,7 @@ My research interest lies in **data-centric machine learning**, **large language
 Before joining UIUC, I received my master's degree from [ECE @ University of Michigan, Ann Arbor](https://ece.engin.umich.edu/) and bachelor's degree from [EE @ National Taiwan University](https://web.ee.ntu.edu.tw/eng/index.php). I also worked with [Prof. Jiaqi Ma](https://jiaqima.github.io/) and [Prof. Qiaozhu Mei](https://websites.umich.edu/~qmei/).
 
 
-I am actively seeking for industrial research internship for Summer 2027! Feel fee to DM me for any oppotunities or discussions.
+I am actively seeking industrial research internships for Summer 2027! Feel free to DM me for any opportunities or discussions.
 
 <!-- Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
 
